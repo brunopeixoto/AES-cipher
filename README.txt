@@ -1,1 +1,1 @@
-AES cipher 1.0.1
+AES cipher 1.0.2
